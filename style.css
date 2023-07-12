@@ -31,6 +31,17 @@ body{
     line-height: 1.5;
     color: #666
 }
+.left .btn{
+    background: rgba(229, 84, 115, 1);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 40px;
+    float: left;
+
+
+}
 img{
     height: 100%;
 }
@@ -39,4 +50,8 @@ height: 600px;
 
 margin-right: 1.5%;
 
+}
+
+.feature{
+    display: flex;
 }
