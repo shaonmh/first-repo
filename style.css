@@ -138,6 +138,7 @@ margin-right: 1.5%;
     margin: 0 auto;
     text-align: center;
     display: flex;
+    margin-top: 50px;
 }
 
 
@@ -150,10 +151,15 @@ margin-right: 1.5%;
     margin-top: 30px;
     display: inline-block;
 }
+.offer .right{
+    height: auto;
+}
 
 .offer .container{
 
-    padding: 50px 0 50px 0;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0 0 0;
     width: 70%;
     text-align: center;
 }
